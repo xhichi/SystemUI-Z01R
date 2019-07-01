@@ -1,2 +1,2 @@
 # SystemUI-Z01R
-fix System UI crash in custom rom
+frameworks/base/packages/SystemUI/src/com/android/systemui/statusbar/phone/StatusBarIconList.java
